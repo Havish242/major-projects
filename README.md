@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Website (Django)
+# 🛍️ M webstore (Django)
 
 This is a **Django-based E-Commerce Website** that allows users to browse products, add them to a cart, and place orders.  
 It uses **Django Models** to handle products, categories, users, orders, and cart functionality.
