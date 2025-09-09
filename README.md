@@ -92,7 +92,7 @@ Open your browser at:
 
 📌 Future Improvements
 
-✅ Payment gateway integration (Razorpay, Stripe, PayPal)
+✅ Payment gateway integration (Stripe, PayPal, Gpay, Phonepay)
 
 ✅ Wishlist & Favorites
 
@@ -123,7 +123,7 @@ crispy-bootstrap5>=0.7
 
 📌 Future Improvements
 
-✅ Payment gateway integration (Razorpay, Stripe, PayPal)
+✅ Payment gateway integration (Stripe, PayPal, Gpay, Phonepay)
 
 ✅ Wishlist & Favorites
 
